@@ -35,5 +35,9 @@
   "homepage": "http://lautarohelp.github.io/react-TODOS",
   "devDependencies": {
     "gh-pages": "^6.0.0"
-  }
+  },
+  "description": "¡Hola, Platzinauta!",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
