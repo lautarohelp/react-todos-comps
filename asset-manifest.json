@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-todos-compsdeploy/static/css/main.c97d35f0.css",
+    "main.js": "/react-todos-compsdeploy/static/js/main.16ae7c75.js",
+    "index.html": "/react-todos-compsdeploy/index.html",
+    "main.c97d35f0.css.map": "/react-todos-compsdeploy/static/css/main.c97d35f0.css.map",
+    "main.16ae7c75.js.map": "/react-todos-compsdeploy/static/js/main.16ae7c75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97d35f0.css",
+    "static/js/main.16ae7c75.js"
+  ]
+}
